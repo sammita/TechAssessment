@@ -1,0 +1,37 @@
+{
+  "feed": {
+    "title": "Top Albums",
+    "id": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/all/100/explicit.json",
+    "author": {
+      "name": "iTunes Store",
+      "uri": "http://wwww.apple.com/us/itunes/"
+    },
+    "results": [
+      {
+        "artistName": "A Boogie wit da Hoodie",
+        "id": "1498673868",
+        "releaseDate": "2020-02-14",
+        "name": "Artist 2.0",
+        "kind": "album",
+        "copyright": "℗ 2020 Atlantic Recording Corporation and Highbridge The Label, LLC.",
+        "artistId": "1068300376",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/a-boogie-wit-da-hoodie/1068300376?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/92/0d/1c/920d1c7f-4085-b286-b33e-d0c022bf9f55/075679823359.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/artist-2-0/1498673868?app=music"
+      }
+    ]
+  }
+}
